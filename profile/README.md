@@ -9,5 +9,5 @@
 - Bananly-Banan
 - R2kip
 # Лучшее плагины компани:
-[AudioPlayer](https://github.com/Edren-Baton-Team/AudioPlayer)
+[AudioPlayer](https://github.com/Edren-Baton-Team/AudioPlayer)\n
 [Anti-Cheat SCP:SL] - В разрботке, требуются квалифицированные сотрудники
