@@ -8,3 +8,5 @@
 - Mariki
 - Bananly-Banan
 - R2kip
+# Лучшее плагины компани:
+AudioPlayer
