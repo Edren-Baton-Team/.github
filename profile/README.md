@@ -21,7 +21,6 @@ The company currently has several members:
 - progame
 ### Плагино-дельщики
 - Mariki
-- Bananly-Banan
 - R2kip
 # Лучшее плагины компани:
 [[AudioPlayer](https://github.com/Edren-Baton-Team/AudioPlayer)] - Позволяет воспроизводить звуки игрокам<br>
