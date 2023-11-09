@@ -6,7 +6,6 @@ The company currently has several members:
 - progame
 ### Plugin-makers
 - Mariki
-- Bananly-Banan
 - R2kip
 ### Best plugin companions:
 [[AudioPlayer](https://github.com/Edren-Baton-Team/AudioPlayer)] - Allows you to play sounds to players<br>
