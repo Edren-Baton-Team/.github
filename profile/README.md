@@ -23,4 +23,4 @@ The company currently has several members:
 - R2kip
 # Лучшее плагины компани:
 [[AudioPlayer](https://github.com/Edren-Baton-Team/AudioPlayer)] - Позволяет воспроизводить звуки игрокам<br>
-[[Anti-Cheat SCP:SL](https://github.com/Edren-Baton-Team/AntiCheat-Free-EdrenBaton)] - В разрботке, требуются квалифицированные сотрудники
+[[Anti-Cheat SCP:SL](https://github.com/Edren-Baton-Team/AntiCheat-Free-EdrenBaton)] - В разработке, требуются квалифицированные сотрудники
