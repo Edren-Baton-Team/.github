@@ -9,7 +9,7 @@ The company currently has several members:
 - R2kip
 ### Best plugin companions:
 [[AudioPlayer](https://github.com/Edren-Baton-Team/AudioPlayer)] - Allows you to play sounds to players<br>
-[Anti-Cheat SCP:SL] - In development, qualified staff required.
+[[Anti-Cheat SCP:SL](https://github.com/Edren-Baton-Team/AntiCheat-Free-EdrenBaton)] - In development, qualified staff required.
 
 
 # Добро пожаловать.
@@ -23,4 +23,4 @@ The company currently has several members:
 - R2kip
 # Лучшее плагины компани:
 [[AudioPlayer](https://github.com/Edren-Baton-Team/AudioPlayer)] - Позволяет воспроизводить звуки игрокам<br>
-[Anti-Cheat SCP:SL] - В разрботке, требуются квалифицированные сотрудники
+[[Anti-Cheat SCP:SL](https://github.com/Edren-Baton-Team/AntiCheat-Free-EdrenBaton)] - В разрботке, требуются квалифицированные сотрудники
