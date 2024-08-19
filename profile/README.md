@@ -4,6 +4,7 @@ The company currently has several members:
 - mosecheev
 - Rysik5318
 - progame
+- Banalny Banan
 ### Plugin-makers
 - Mariki
 - R2kip
@@ -18,6 +19,7 @@ The company currently has several members:
 - mosecheev
 - Rysik5318
 - progame
+- Banalny Banan
 ### Плагино-дельщики
 - Mariki
 - R2kip
